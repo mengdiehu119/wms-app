@@ -9,3 +9,6 @@ local.properties
 .idea/
 *.iml
 /app/release/
+cmdline-tools.zip
+*.zip
+gradle-wrapper.jar
